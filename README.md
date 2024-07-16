@@ -23,14 +23,20 @@ Note: Without preprocessing, the analysis may yield misleading results.
 Here, the dataset has been already preprocessed. Thus, the analysis and visualizations will be based on high-quality data, leading to reliable and meaningful insights.
 
 ### Analyze the Data
-As a first step in analysis, I've created a PivotTable by dropping the fields into Rows, Columns, Values, and Filter areas to summarize the data. Then, I used filters in the PivotTable to focus on specific subsets of data to answer questions like...
+As a first step in analysis, I've created a PivotTable by dropping the fields into Rows, Columns, Values, and Filter areas to summarize the data. Then, I used filters in the PivotTable to focus on specific subsets of data to answer questions like:
 
 1. In which year the highest number of cases reported?
 2. Which county of California reported highest cases?
 3. Which disease cases are high?
 
 ### Visualize the Data
-While PivotTables are excellent for summarizing and aggregating data, their drawback lies in their static nature and limited visual representation. With the PivotTable creation complete, now I can proceed to visualize the data to uncover patterns and trends effectively.
+While PivotTables are excellent for summarizing and aggregating data, their drawback lies in their static nature and limited visual representation. So, with the PivotTable creation complete, now I'm proceeding to visualize the data to uncover patterns and trends effectively.
+
+![Number_of_Diseases_Per_Year](https://github.com/user-attachments/assets/102a72ff-376d-4d77-893f-91e5855947d4)
 
 
 ### Conclusion
+In conclusion, the year 2014 saw a notable increase in reported cases of infectious diseases across California, with California City reporting a significant 72,192 cases. Among these diseases, Pertussis emerged as particularly prevalent and highly communicable among residents statewide. These findings underscore the ongoing importance of robust public health measures and vaccination efforts to mitigate the impact of infectious diseases in California.
+
+### Recommendations
+To address these findings, California Public Health Department should enhance vaccination coverage and public awareness campaigns about preventive measures for Pertussis. Additionally, strengthening surveillance systems and healthcare infrastructure can help effectively manage and reduce the incidence of infectious diseases across California.
