@@ -1,5 +1,5 @@
 # California_Infectious_Diseases
-This repository focuses on the analysis and visualization of infectious diseases data reported in California during 2001-2022. It aims to provide a comprehensive summary and visual representation of the dataset using MS-Excel to enhance understanding of the disease patterns and trends.
+This project focuses on the analysis and visualization of infectious diseases data reported in California during 2001-2022. It aims to provide a comprehensive summary and visual representation of the dataset using MS-Excel to enhance understanding of the disease patterns and trends.
 
 ### Downloading the Dataset
 With the keen interest to see the trends on communicable diseases in the United States, I've downloaded an infectious diseases dataset from the [Data.gov](https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856), which was collected by the California Department of Public Health. The data represents cases reported for California residents with an estimated illness from 2001 through 2022.
