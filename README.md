@@ -30,7 +30,7 @@ As a first step in analysis, I've created a PivotTable by dropping the fields in
 3. Which disease cases are high?
 
 ### Visualize the Data
-While PivotTables are excellent for summarizing and aggregating data, their drawback lies in their static nature and limited visual representation. So, with the PivotTable creation complete, now I'm proceeding to visualize the data to uncover patterns and trends effectively. Though I've different types of charts available, I've used line chart here because line charts are excellent for shwoing trends over time.
+While PivotTables are excellent for summarizing and aggregating data, their drawback lies in their static nature and limited visual representation. So, with the PivotTable creation complete, now I'm proceeding to visualize the data to uncover patterns and trends effectively. Though I've different types of charts available, I've used line chart here because line charts are excellent for showing trends over time.
 
 ![Number_of_Diseases_Per_Year](https://github.com/user-attachments/assets/102a72ff-376d-4d77-893f-91e5855947d4)
 
